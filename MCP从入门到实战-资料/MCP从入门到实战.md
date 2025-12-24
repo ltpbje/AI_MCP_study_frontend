@@ -191,10 +191,10 @@ stdio通信高效、简洁，但仅适用于本地进程间通信
 
 ### MCP Server 的调试工具
 
-直接运行
+直接运行 对应ban'ben
 
 ```shell
- npx @modelcontextprotocol/inspector
+ npx @modelcontextprotocol/inspector@0.16.2
 ```
 
 ### MCP SDK
